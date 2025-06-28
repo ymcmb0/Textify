@@ -3,7 +3,7 @@ import os
 
 # --- Paths ---
 # NOTE: Update FFMPEG_PATH to where you have ffmpeg installed on your system.
-FFMPEG_PATH = r"C:\Users\RizwanNisar\Downloads\essential\ffmpeg-7.0.2-essentials_build\bin"
+#FFMPEG_PATH = r"C:\Users\RizwanNisar\Downloads\essential\ffmpeg-7.0.2-essentials_build\bin"
 OUTPUT_DIR = "data"
 AUDIO_DIR = os.path.join(OUTPUT_DIR, "audio")
 TRANSCRIPTS_DIR = os.path.join(OUTPUT_DIR, "transcripts")
