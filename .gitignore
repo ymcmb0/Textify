@@ -1,0 +1,6 @@
+venv310
+.dockerignore
+Dockerfile
+.idea
+__pycache__
+*.pyc

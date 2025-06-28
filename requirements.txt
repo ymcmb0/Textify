@@ -1,0 +1,11 @@
+pytube
+git+https://github.com/openai/whisper.git
+moviepy
+streamlit
+yt-dlp
+openai
+openai-whisper
+transformers
+torch
+sentencepiece
+streamlit 
